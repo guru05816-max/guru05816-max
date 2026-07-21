@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=50&fontColor=ffffff&animation=fadeIn)
 <h1 align="center">Hi 👋, I'm Guruprasanth K</h1>
 <h3 align="center">Python Full Stack Developer 🐍</h3>
 

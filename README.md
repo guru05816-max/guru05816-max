@@ -1,4 +1,4 @@
-![Spider Banner](https://raw.githubusercontent.com/guru05816-max/guru05816-max/main/spider-descend.svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0B0033&height=200&section=header&text=About%20Me&fontSize=40&fontColor=ffffff)
 <h1 align="center">Hi 👋, I'm Guruprasanth K</h1>
 <h3 align="center">Python Full Stack Developer 🐍</h3>
 

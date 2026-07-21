@@ -1,15 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0B0033&height=150&section=header&text=Welcome%20to%20my%20Space&fontSize=45&fontColor=ffffff&fontAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0B0033&height=200&section=header&text=About%20Me&fontSize=40&fontColor=ffffff)
+
 <h1 align="center">Hi 👋, I'm Guruprasanth K</h1>
 <h3 align="center">Python Full Stack Developer 🐍</h3>
 
 ---
 
-### 🚀 About Me
-- 💼 Currently doing **Python Full Stack Internship** at Careerschool HR Solutions, Chennai
-- 🌱 Learning **Python, AI, HTML, CSS, JavaScript**
-- 🔭 Building **AI-based solutions** using Python and modern AI technologies
-- 🎓 B.Com Graduate, St. Joseph's College of Arts and Science, Chennai
-- 📍 Based in Pammal, Chennai
+### 🚀 **About Me**
+- 💼 **Currently doing Python Full Stack Internship** at Careerschool HR Solutions, Chennai
+- 🌱 **Learning Python, AI, HTML, CSS, JavaScript**
+- 🔭 **Building AI-based solutions** using Python and modern AI technologies
+- 🎓 **B.Com Graduate**, St. Joseph's College of Arts and Science, Chennai
+- 📍 **Based in Pammal, Chennai**
 - 📫 Reach me: guru05816@gmail.com
 - ☎️ 6382831155
 

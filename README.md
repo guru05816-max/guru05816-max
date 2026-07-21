@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Input%20text&fontAlign=50&animation=blink
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:0B0033&height=150&section=header&text=Welcome%20to%20my%20Space&fontSize=45&fontColor=ffffff&fontAlignY=50)
 <h1 align="center">Hi 👋, I'm Guruprasanth K</h1>
 <h3 align="center">Python Full Stack Developer 🐍</h3>
 
